@@ -16,6 +16,6 @@ public class SpielStarten {
         System.out.println("InGameName is: " + inGameName);  // Output user input
 
         MyNetworkClient client = new MyNetworkClient(clientIP, 1234);
-        MyGame spiel = new MyGame()
+        MyGame spiel = new MyGame(serverIP, 1234, inGameName);
     }
 }
