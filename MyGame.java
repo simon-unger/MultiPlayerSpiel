@@ -10,6 +10,8 @@ import ea.*;
  *
  * @Author          Mike Ganshorn
  *
+ * Hats geklappt?
+ *
  * @Version         1.1 (2015-02-13)
  *
  */
